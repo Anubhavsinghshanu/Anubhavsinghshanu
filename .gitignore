@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & System
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local build / cache
+.tmp/
+node_modules/
