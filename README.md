@@ -22,5 +22,7 @@
 <a href="tel:+916306942983" target="_blank">
   <img src="https://img.shields.io/badge/Phone-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" alt="Phone" />
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Anubhavsinghshanu&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
 
 </div>
