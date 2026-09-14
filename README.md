@@ -4,4 +4,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Backend-Focused+Engineer+%E2%9A%A1;NestJS+%7C+PostgreSQL+%7C+Redis+%7C+LangGraph;Founding+Engineer+%40+Ezy+Media;Architected+Platforms+Serving+1000%2B+Creators+%F0%9F%9A%80;Creator+of+Ratlo+%E2%80%94+1.5K+Users+on+Launch+Day;AI-Native+Systems+%7C+Autonomous+Agents+%F0%9F%A4%96;Architect.+Optimize.+Scale.+%F0%9F%92%BB" alt="Typing SVG" />
 
+<br/>
+<br/>
+
+<a href="https://linkedin.com/in/anubhav-singh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:anubhavsingh63069@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Anubhavsinghshanu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="tel:+916306942983" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" alt="Phone" />
+</a>
+
 </div>
