@@ -26,3 +26,54 @@
 <img src="https://komarev.com/ghpvc/?username=Anubhavsinghshanu&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
 
 </div>
+
+<br/>
+
+---
+
+## ⚡ `$ whoami`
+
+*— Engineering high-performance backends and autonomous AI systems*
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```text
+┌──(anubhav㉿core)-[~]
+└─$ cat /etc/anubhav.conf
+
+> NAME       ::  Anubhav Singh
+> ROLE       ::  Backend-Focused Engineer & AI/ML Systems Builder
+> LOCATION   ::  Ghaziabad, India 🇮🇳
+> COLLEGE    ::  AKTU, Ghaziabad — B.Tech CSE (AI & ML) '27
+> STATUS     ::  [ █████████░ ] Founding Engineer @ Ezy Media + Open to Opportunities
+> ALIAS      ::  anubhav_core / shanu
+> MOTTO      ::  "Architect cleanly. Optimize ruthlessly. Scale endlessly."
+
+> CORE ARCHITECTURES:
+  ↳ Creator-Brand CSM Platform serving 1,000+ creators & 10+ brands
+  ↳ BullMQ async job pipeline handling 500+ jobs/wk with retries
+  ↳ LangGraph autonomous AI multi-agent orchestration for CRM workflows
+  ↳ Redis caching layers cutting p95 query latency from ~450ms to <120ms
+
+> INTERESTS & FOCUS:
+  ↳ Scalable Distributed Systems & High-Throughput Backends
+  ↳ Autonomous AI Agents & LangGraph Pipelines
+  ↳ Async Queue Architectures & Event-Driven Systems
+  ↳ Competitive Programming & Algorithmic Problem Solving
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br/>
+
+*"First, solve the problem. Then, write the code. Then, scale it to thousands."*  
+*— Anubhav Singh*
+
+<br/>
+
+</td>
+</tr>
+</table>
