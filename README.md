@@ -74,6 +74,8 @@
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavsinghshanu&theme=dark&background=0a0a0a&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=888888&dates=555555&border=1a1a1a&stroke=00F0FF" alt="GitHub Streak" />
+
 </td>
 </tr>
 </table>
