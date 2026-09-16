@@ -79,3 +79,22 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+## ⚡ `$ My Relics `
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160"><strong>Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,postgres&theme=dark" alt="Languages" />
+</td>
+</tr>
+</table>
+
+</div>
