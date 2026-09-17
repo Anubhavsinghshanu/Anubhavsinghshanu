@@ -95,6 +95,12 @@
 <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,postgres&theme=dark" alt="Languages" />
 </td>
 </tr>
+<tr>
+<td align="center" width="160"><strong>Backend & Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,nextjs,react,tailwind,html,css&theme=dark" alt="Backend and Frontend" />
+</td>
+</tr>
 </table>
 
 </div>
