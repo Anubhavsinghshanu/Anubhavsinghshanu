@@ -101,6 +101,12 @@
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,nextjs,react,tailwind,html,css&theme=dark" alt="Backend and Frontend" />
 </td>
 </tr>
+<tr>
+<td align="center" width="160"><strong>Databases & Caching</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb&theme=dark" alt="Databases and Caching" />
+</td>
+</tr>
 </table>
 
 </div>
