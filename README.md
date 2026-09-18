@@ -107,6 +107,18 @@
 <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,mongodb&theme=dark" alt="Databases and Caching" />
 </td>
 </tr>
+<tr>
+<td align="center" width="160"><strong>AI / ML & Agents</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py,scikitlearn,fastapi&theme=dark" alt="AI and ML" />
+</td>
+</tr>
+<tr>
+<td align="center" width="160"><strong>DevOps & Cloud</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux,docker&theme=dark" alt="DevOps and Tools" />
+</td>
+</tr>
 </table>
 
 </div>
