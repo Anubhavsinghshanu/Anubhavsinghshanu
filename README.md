@@ -122,3 +122,17 @@
 </table>
 
 </div>
+
+<br/>
+
+---
+
+## 📊 `$ git log --stat`
+
+<div align="center">
+
+<a href="https://github.com/Anubhavsinghshanu"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Anubhavsinghshanu&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=00F0FF&icon_color=00F0FF&text_color=cccccc&border_color=1f1f1f&hide_border=false" /></a>
+&nbsp;
+<a href="https://github.com/Anubhavsinghshanu"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhavsinghshanu&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00F0FF&text_color=cccccc&border_color=1f1f1f&hide_border=false&langs_count=8" /></a>
+
+</div>
