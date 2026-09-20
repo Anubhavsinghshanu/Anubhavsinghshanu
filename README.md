@@ -141,3 +141,20 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Anubhavsinghshanu&theme=darkhub&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
+
+<br/>
+
+---
+
+## 🚀 `$ cat ./projects/featured.md`
+
+<div align="center">
+
+| Project | Stack | Architecture & Impact |
+|:--------|:------|:----------------------|
+| ⚡ **BrewCRM** *(AI-Native CRM)* | NestJS · LangGraph · PostgreSQL · Redis · BullMQ | Autonomous CRM platform with LangGraph AI agents automating customer segmentation from behavioural streams; BullMQ async webhook queue & Redis caching |
+| 📚 **Ratlo** *(DSA Prep Platform)* | Next.js · TypeScript · Tailwind CSS | Free pattern-based DSA platform built end-to-end; gained **1.5K users on launch day** and **150+ daily active users** |
+| 🤝 **Ezy Media CSM** *(Founding Eng)* | NestJS · PostgreSQL · Redis · BullMQ · JWT | Scalable two-sided platform serving **1,000+ creators** across **10+ brands**; RBAC across 25+ endpoints, 500+ async jobs/week, p95 query latency <120ms |
+| 📊 **Amazon Sentiment Analyzer** | Python · scikit-learn · NLP · Streamlit | End-to-end NLP classification pipeline benchmarking multiple models; deployed as live Streamlit application |
+
+</div>
