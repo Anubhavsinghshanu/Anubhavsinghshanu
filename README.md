@@ -135,4 +135,9 @@
 &nbsp;
 <a href="https://github.com/Anubhavsinghshanu"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhavsinghshanu&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00F0FF&text_color=cccccc&border_color=1f1f1f&hide_border=false&langs_count=8" /></a>
 
+<br/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anubhavsinghshanu&theme=darkhub&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
 </div>
