@@ -158,3 +158,34 @@
 | 📊 **Amazon Sentiment Analyzer** | Python · scikit-learn · NLP · Streamlit | End-to-end NLP classification pipeline benchmarking multiple models; deployed as live Streamlit application |
 
 </div>
+
+<br/>
+
+---
+
+## 💼 `$ cat ./experience/timeline.log`
+
+```text
+[2024 → present]       ██████████  Ezy Media                 Founding Engineer — NestJS, PostgreSQL, Redis, BullMQ
+[Feb 2026 → Apr 2026]  ████████░░  Gimmick Digital LLP       Digital Media Intern — 15+ Campaigns, 1,000+ Creators
+[2023 → 2027]          ████████░░  AKTU Ghaziabad            B.Tech CSE (AI & ML)
+```
+
+<details open>
+<summary><strong>Founding Engineer · Ezy Media</strong> (2024 – Present)</summary>
+
+- Built a two-sided creator–brand CSM platform end-to-end using **NestJS**, **PostgreSQL**, and **Redis**, replacing manual spreadsheets and chat workflows to onboard **1,000+ creators** across **10+ brands**.
+- Architected **Role-Based Access Control (RBAC)** with JWT auth for creators, brands, and admins, isolating workflows across **25+ REST API endpoints**.
+- Designed a **BullMQ** async queue pipeline for campaign notifications, reminders, and payouts, processing **500+ jobs/week** with failure handling & retries.
+- Added **Redis caching** on creator search and brand dashboards, slashing **p95 latency from ~450ms to <120ms**.
+- Engineered brand analytics and creator submission portals, reducing manual coordination overhead by **40%**.
+
+</details>
+
+<details>
+<summary><strong>Digital Media Intern · Gimmick Digital Consultant LLP</strong> (Remote | Feb 2026 – Apr 2026)</summary>
+
+- Orchestrated **15+ Instagram campaigns** end-to-end, managing timelines, deliverables, and approvals across multiple brand partners.
+- Collaborated with **1,000+ creators** on campaign execution, ensuring high-fidelity brand alignment and content delivery across remote operations.
+
+</details>
