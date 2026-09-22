@@ -189,3 +189,22 @@
 - Collaborated with **1,000+ creators** on campaign execution, ensuring high-fidelity brand alignment and content delivery across remote operations.
 
 </details>
+
+<br/>
+
+---
+
+## 🏆 `$ cat ./achievements/unlocked.log`
+
+<div align="center">
+
+| Badge | Achievement & Impact |
+|:---:|:---|
+| 🚀 **Scale @ Ezy Media** | Architected creator-brand CSM platform serving **1,000+ creators** across **10+ brands** |
+| ⚡ **Performance Optimization** | Reduced p95 backend response latency from **~450ms to <120ms** (~73% latency reduction) with Redis caching layers |
+| 📦 **High-Throughput Async Pipelines** | Built BullMQ job queues processing **500+ jobs/week** with automated retry mechanisms |
+| 📈 **Product Launch Traction** | Launched **Ratlo**, capturing **1.5K users on day one** and maintaining 150+ active learners |
+| 🤖 **AI-Native Engineering** | Built autonomous LangGraph multi-agent workflows driving real-time CRM behavioral triggers |
+| 🏛️ **Campus Leadership** | Head of Social & Visual Media at E-CELL, Promo Lead at ECO-NSS, Donation Head at LDL NGO |
+
+</div>
