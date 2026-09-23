@@ -226,3 +226,19 @@
 [2020 → 2021]  🏫  Gyandeep Academy (CBSE Class X)
                    ↳ Secondary School Examination — 91.0%
 ```
+
+<br/>
+
+---
+
+## 🤝 `$ cat ./community/leadership.log`
+
+<div align="center">
+
+| Organization / Initiative | Role | Contribution & Impact |
+|:---|:---:|:---|
+| 💡 **E-CELL** | Social & Visual Media Head | Directed brand design, digital media campaigns, and visual identity for campus entrepreneurship summits |
+| 🌱 **ECO-NSS** | Promotion & Registration Lead | Led community outreach, registration drives, and sustainability initiatives across college programs |
+| ❤️ **LDL (NGO)** | Donation Head | Spearheaded donation campaigns and welfare distributions providing essentials to underprivileged communities |
+
+</div>
