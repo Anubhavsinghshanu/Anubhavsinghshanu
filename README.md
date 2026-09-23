@@ -208,3 +208,21 @@
 | 🏛️ **Campus Leadership** | Head of Social & Visual Media at E-CELL, Promo Lead at ECO-NSS, Donation Head at LDL NGO |
 
 </div>
+
+<br/>
+
+---
+
+## 🎓 `$ cat ./education/academic.log`
+
+```text
+[2023 → 2027]  🎓  AKTU, Ghaziabad
+                   ↳ B.Tech Computer Science & Engineering (AI & ML) — CGPA: 7.6 / 10.0 (Current)
+                   ↳ Focus: Data Structures & Algorithms, OS, Distributed Systems, ML & AI Agents
+
+[2022 → 2023]  🏫  Gyandeep Academy (CBSE Class XII)
+                   ↳ Senior Secondary Examination — 78.2%
+
+[2020 → 2021]  🏫  Gyandeep Academy (CBSE Class X)
+                   ↳ Secondary School Examination — 91.0%
+```
