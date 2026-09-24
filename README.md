@@ -242,3 +242,17 @@
 | ❤️ **LDL (NGO)** | Donation Head | Spearheaded donation campaigns and welfare distributions providing essentials to underprivileged communities |
 
 </div>
+
+<br/>
+
+---
+
+## 🌿 `$ git graph --all`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavsinghshanu&bg_color=0a0a0a&color=00F0FF&line=00a8cc&point=00F0FF&area=true&area_color=003344&border_color=1f1f1f&hide_border=false&title_color=00F0FF)](https://github.com/Anubhavsinghshanu)
+
+<img src="https://raw.githubusercontent.com/Anubhavsinghshanu/Anubhavsinghshanu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
+
+</div>
