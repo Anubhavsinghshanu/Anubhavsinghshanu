@@ -281,3 +281,35 @@ LOADING: Open Source Backend Contributions  █████░░░░░ 50%
 - [ ] 🛡️ Deepen expertise in high-throughput distributed message queues & event-driven architecture
 - [ ] 🌐 Contribute core features to open-source backend and AI ecosystems
 - [ ] 💡 Build and open-source production-ready NestJS + LangGraph starter architectures
+
+<br/>
+
+---
+
+<div align="center">
+
+```text
+⚡  ARCHITECT. OPTIMIZE. SCALE.  ⚡
+```
+
+*Crafting robust systems designed for performance, resilience, and real-world scale.*
+
+<br/>
+
+<a href="https://linkedin.com/in/anubhav-singh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:anubhavsingh63069@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email%20Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Anubhavsinghshanu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,35:092d3b,70:051821,100:000000&height=130&section=footer&text=Anubhav%20Singh%20%E2%9A%A1&fontSize=24&fontColor=00F0FF&animation=fadeIn&fontAlignY=65" />
