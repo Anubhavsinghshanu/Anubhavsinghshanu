@@ -256,3 +256,28 @@
 <img src="https://raw.githubusercontent.com/Anubhavsinghshanu/Anubhavsinghshanu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
 
 </div>
+
+<br/>
+
+---
+
+## 🔭 `$ ./run --mission 2026`
+
+```text
+LOADING: Ezy Media Scale & Microservices    ████████░░ 80%
+LOADING: LangGraph Autonomous AI Pipelines  █████████░ 90%
+LOADING: Distributed Systems & Cache Layers ████████░░ 80%
+LOADING: Advanced Data Structures & Algo    ████████░░ 85%
+LOADING: Cloud Infrastructure (AWS & K8s)   ██████░░░░ 60%
+LOADING: Open Source Backend Contributions  █████░░░░░ 50%
+```
+
+**2026 – 2027 OBJECTIVES**
+
+- [x] ⚡ Architect and scale Ezy Media platform to **1,000+ creators**
+- [ ] 🤖 Expand **BrewCRM** with dynamic multi-agent autonomous decision workflows
+- [ ] 🎯 Secure a top Backend / AI Systems Software Engineering role
+- [ ] 🚀 Scale **Ratlo** DSA platform to 10K+ active engineers
+- [ ] 🛡️ Deepen expertise in high-throughput distributed message queues & event-driven architecture
+- [ ] 🌐 Contribute core features to open-source backend and AI ecosystems
+- [ ] 💡 Build and open-source production-ready NestJS + LangGraph starter architectures
