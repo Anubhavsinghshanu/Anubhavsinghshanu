@@ -1,0 +1,120 @@
+{
+  "name": "Anubhav Singh",
+  "username": "Anubhavsinghshanu",
+  "role": "Backend-Focused Engineer & AI/ML Systems Builder",
+  "tagline": "Architect cleanly. Optimize ruthlessly. Scale endlessly.",
+  "location": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  "contact": {
+    "email": "anubhavsingh63069@gmail.com",
+    "phone": "+91 63069 42983",
+    "github": "https://github.com/Anubhavsinghshanu",
+    "linkedin": "https://linkedin.com/in/anubhav-singh"
+  },
+  "education": {
+    "institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+    "degree": "B.Tech in Computer Science and Engineering (AI & ML)",
+    "duration": "2023 - 2027",
+    "cgpa": "7.6 / 10.0"
+  },
+  "technical_skills": {
+    "languages": ["TypeScript", "JavaScript", "Python", "C++", "SQL"],
+    "backend_and_frameworks": [
+      "NestJS",
+      "Node.js",
+      "Express.js",
+      "Next.js",
+      "REST APIs",
+      "JWT",
+      "RBAC",
+      "WebSockets"
+    ],
+    "databases_and_queues": [
+      "PostgreSQL",
+      "Redis",
+      "BullMQ"
+    ],
+    "ai_and_ml": [
+      "LangGraph",
+      "Natural Language Processing (NLP)",
+      "scikit-learn",
+      "Pandas",
+      "Classification & Regression",
+      "Streamlit"
+    ],
+    "cloud_and_devops": [
+      "AWS",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Linux",
+      "Docker"
+    ],
+    "core_cs": [
+      "Data Structures & Algorithms",
+      "Operating Systems",
+      "C++ STL"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Ezy Media",
+      "role": "Founding Engineer",
+      "duration": "2024 - Present",
+      "metrics": {
+        "creators_onboarded": "1,000+",
+        "brands_served": "10+",
+        "api_endpoints": "25+",
+        "async_jobs_per_week": "500+",
+        "latency_reduction": "~450ms to <120ms (p95)",
+        "coordination_time_saved": "40%"
+      }
+    },
+    {
+      "company": "Gimmick Digital Consultant LLP",
+      "role": "Digital Media Intern",
+      "duration": "Feb 2026 - Apr 2026",
+      "metrics": {
+        "campaigns_managed": "15+",
+        "creators_coordinated": "1,000+"
+      }
+    }
+  ],
+  "featured_projects": [
+    {
+      "title": "BrewCRM",
+      "category": "AI-Native CRM Platform",
+      "stack": ["NestJS", "LangGraph", "PostgreSQL", "Redis", "BullMQ"],
+      "highlight": "Autonomous AI agent workflows for customer segmentation & async event jobs"
+    },
+    {
+      "title": "Ratlo",
+      "category": "DSA Preparation Platform",
+      "stack": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "highlight": "1.5K users on launch day, 150+ active learners"
+    },
+    {
+      "title": "Amazon Reviews Sentiment Analyzer",
+      "category": "Machine Learning / NLP",
+      "stack": ["Python", "scikit-learn", "NLP", "Streamlit"],
+      "highlight": "Multi-classifier benchmark deployed live as Streamlit application"
+    }
+  ],
+  "leadership": [
+    {
+      "organization": "E-CELL",
+      "role": "Social & Visual Media Head"
+    },
+    {
+      "organization": "ECO-NSS",
+      "role": "Promotion & Registration Lead"
+    },
+    {
+      "organization": "LDL (NGO)",
+      "role": "Donation Head"
+    }
+  ]
+}
