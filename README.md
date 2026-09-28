@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:anubhavsingh63069@gmail.com" target="_blank">
+<a href="mailto:anubhavsingh9470@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
 </a>
 &nbsp;
@@ -307,7 +307,7 @@ LOADING: Open Source Backend Contributions  █████░░░░░ 50%
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:anubhavsingh63069@gmail.com" target="_blank">
+<a href="mailto:anubhavsingh9470@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email%20Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
 </a>
 &nbsp;
