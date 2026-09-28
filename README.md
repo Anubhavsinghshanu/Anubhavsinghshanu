@@ -69,6 +69,13 @@
 
 <br/>
 
+<a href="https://github.com/Anubhavsinghshanu">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/184865831?v=4&w=180&h=180&fit=cover&mask=circle" width="140" alt="Anubhav Singh" />
+</a>
+
+<br/>
+<br/>
+
 *"First, solve the problem. Then, write the code. Then, scale it to thousands."*  
 *— Anubhav Singh*
 
@@ -306,6 +313,10 @@ LOADING: Open Source Backend Contributions  █████░░░░░ 50%
 &nbsp;
 <a href="https://github.com/Anubhavsinghshanu" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="tel:+916306942983" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" alt="WhatsApp" />
 </a>
 
 </div>
